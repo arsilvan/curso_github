@@ -1,1 +1,4 @@
 sujeito programado
+apple
+microsoft
+amazon
